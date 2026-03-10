@@ -18,7 +18,7 @@ h3{
 }
 
 #edusec{
-    border: 3px solid white;
+    border: 3px solid lightblue;
     border-radius: 25px;
     margin-top:20px;
     margin-left:20px;
@@ -29,11 +29,38 @@ h3{
 }
 
 #expsec{
-    border: 3px solid white;
+    border: 3px solid lightblue;
     border-radius: 25px;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom:20px;
 }
 
 #hobsec{
-    border: 3px solid white;
+    border: 3px solid lightblue;
     border-radius: 25px;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom:20px;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    border: 3px dashed lightblue;
+    border-radius: 25px;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom:20px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
