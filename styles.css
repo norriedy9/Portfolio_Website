@@ -1,0 +1,39 @@
+body{
+    background-color:midnightblue;
+    font-family:'Courier New', Courier, monospace;
+    color:skyblue;
+}
+
+h1{
+    color:limegreen;
+    font-weight:bolder;
+}
+h2{
+    color:turquoise;
+    font-weight: bolder;
+}
+h3{
+    color:aqua;
+    font-weight: bolder;
+}
+
+#edusec{
+    border: 3px solid white;
+    border-radius: 25px;
+    margin-top:20px;
+    margin-left:20px;
+    margin-right:20px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom:20px;
+}
+
+#expsec{
+    border: 3px solid white;
+    border-radius: 25px;
+}
+
+#hobsec{
+    border: 3px solid white;
+    border-radius: 25px;
+}
