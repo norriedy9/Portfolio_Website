@@ -4,9 +4,18 @@ body{
     color:skyblue;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 h1{
     color:limegreen;
     font-weight:bolder;
+    display:flex;
+    justify-content:center;
 }
 h2{
     color:turquoise;
@@ -15,6 +24,12 @@ h2{
 h3{
     color:aqua;
     font-weight: bolder;
+}
+h4{
+    color:turquoise;
+    font-weight:bolder;
+    display:flex;
+    justify-content:center;
 }
 
 #edusec{
